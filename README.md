@@ -20,6 +20,7 @@ Risposta:
 Codici di Stato HTTP:
 200 OK: Richiesta riuscita.
 500 Internal Server Error: Errore del server.
+
 POST /paesi.php
 Descrizione: Aggiungi un nuovo paese.
 
@@ -38,6 +39,7 @@ Codici di Stato HTTP:
 201 Created: Paese creato con successo.
 400 Bad Request: Dati non forniti correttamente.
 500 Internal Server Error: Errore del server.
+
 PUT /paesi.php?id={id}
 Descrizione: Modifica un paese esistente.
 
@@ -56,6 +58,7 @@ Codici di Stato HTTP:
 200 OK: Paese aggiornato con successo.
 400 Bad Request: ID o dati non forniti correttamente.
 500 Internal Server Error: Errore del server.
+
 DELETE /paesi.php?id={id}
 Descrizione: Cancella un paese.
 
@@ -93,6 +96,7 @@ Risposta:
 Codici di Stato HTTP:
 200 OK: Richiesta riuscita.
 500 Internal Server Error: Errore del server.
+
 POST /viaggi.php
 Descrizione: Aggiungi un nuovo viaggio.
 
@@ -113,6 +117,7 @@ Codici di Stato HTTP:
 201 Created: Viaggio creato con successo.
 400 Bad Request: Dati non forniti correttamente.
 500 Internal Server Error: Errore del server.
+
 PUT /viaggi.php?id={id}
 Descrizione: Modifica un viaggio esistente.
 
@@ -132,6 +137,7 @@ Codici di Stato HTTP:
 200 OK: Viaggio aggiornato con successo.
 400 Bad Request: ID o dati non forniti correttamente.
 500 Internal Server Error: Errore del server.
+
 DELETE /viaggi.php?id={id}
 Descrizione: Cancella un viaggio.
 
