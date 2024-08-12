@@ -3,34 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentazione API - Progetto PHP MySQL</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            border-left: 3px solid #333;
-            padding: 10px;
-            overflow-x: auto;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        .endpoint {
-            margin-bottom: 20px;
-        }
-        .endpoint h2 {
-            margin-top: 0;
-        }
-    </style>
 </head>
 <body>
     <h1>Documentazione API - Progetto PHP MySQL</h1>
