@@ -12,10 +12,10 @@
     <h2>1. Endpoint: /paesi.php</h2>
     <p><strong>Base URL:</strong> http://localhost/progetti/progetto_phpmysql_robertaciresa/api/paesi.php</p>
 
-    <h3>GET /paesi.php</h3>
-    <p><strong>Descrizione:</strong> Ottieni la lista di tutti i paesi.</p>
-    <p><strong>Parametri:</strong> Nessuno.</p>
-    <h4>Risposta:</h4>
+    GET /paesi.php
+    Descrizione: Ottieni la lista di tutti i paesi.
+    Parametri: Nessuno.
+    Risposta:
     <pre><code>[
 {
     "id": "1",
@@ -29,9 +29,9 @@
         <li><code>500 Internal Server Error</code>: Errore del server.</li>
     </ul>
 
-    <h3>POST /paesi.php</h3>
-    <p><strong>Descrizione:</strong> Aggiungi un nuovo paese.</p>
-    <p><strong>Parametri:</strong>
+    POST /paesi.php
+    Descrizione: Aggiungi un nuovo paese.
+    Parametri:
         <ul>
             <li><code>nome</code> (stringa): Nome del paese da aggiungere.</li>
         </ul>
