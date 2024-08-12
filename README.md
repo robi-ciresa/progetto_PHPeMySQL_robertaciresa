@@ -70,6 +70,7 @@ Codici di Stato HTTP:
 200 OK: Paese cancellato con successo.
 400 Bad Request: ID del paese non fornito.
 500 Internal Server Error: Errore del server.
+
 2. Endpoint: /viaggi.php
 Base URL: http://localhost/progetti/progetto_phpmysql_robertaciresa/api/viaggi.php
 
